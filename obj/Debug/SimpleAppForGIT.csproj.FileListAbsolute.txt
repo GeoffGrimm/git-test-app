@@ -1,0 +1,9 @@
+C:\_work\Sandbox\SimpleAppForGIT\bin\Debug\SimpleAppForGIT.exe.config
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.csprojResolveAssemblyReference.cache
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.Form1.resources
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.Properties.Resources.resources
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.csproj.GenerateResource.Cache
+C:\_work\Sandbox\SimpleAppForGIT\bin\Debug\SimpleAppForGIT.exe
+C:\_work\Sandbox\SimpleAppForGIT\bin\Debug\SimpleAppForGIT.pdb
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.exe
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.pdb

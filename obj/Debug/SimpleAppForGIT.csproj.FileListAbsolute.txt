@@ -6,3 +6,4 @@ C:\_work\Sandbox\SimpleAppForGIT\bin\Debug\SimpleAppForGIT.exe
 C:\_work\Sandbox\SimpleAppForGIT\bin\Debug\SimpleAppForGIT.pdb
 C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.exe
 C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.pdb
+C:\_work\Sandbox\SimpleAppForGIT\obj\Debug\SimpleAppForGIT.csprojResolveAssemblyReference.cache

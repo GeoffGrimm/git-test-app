@@ -19,7 +19,7 @@ namespace SimpleAppForGIT
 
         private void Form1_Shown(object sender, EventArgs e)
         {
-            MessageBox.Show("bite my shiny metal ass.  This has a login form", "Bender Sez:");
+            MessageBox.Show("bite my shiny metal ass.  This has a login form", "Bender Sez:", MessageBoxButtons.YesNo);
         }
     }
 }

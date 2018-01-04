@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace SimpleAppForGIT
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Shown(object sender, EventArgs e)
-        {
-            MessageBox.Show("bite my shiny metal ass.  This has a login form", "Bender Sez:");
         }
     }
 }
